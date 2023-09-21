@@ -48,7 +48,7 @@ public class LamaMod
         modEventBus.addListener(this::addCreative);
 
     }
-
+//common setup
     private void commonSetup(final FMLCommonSetupEvent event)
     {
 
