@@ -34,7 +34,7 @@ import org.slf4j.Logger;
 public class LamaMod
 {
     public static final String MODID = "lamamod";
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
 
 
